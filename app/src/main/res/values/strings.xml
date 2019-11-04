@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calbulance</string>
+    <string name="AWS_ACCESS_ID">AKIAQ73NJTIRWVCR2WYC</string>
+    <string name="AWS_ACCESSKEY">+iomVJ8EQalKcD1z2tQWUTGkLTuVokItrCEM7ne1</string>
+    <string name="AWS_BUCKET">calbulance</string>
+</resources>
